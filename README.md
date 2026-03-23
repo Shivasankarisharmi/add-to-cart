@@ -32,7 +32,7 @@ npm install
 npm run dev
 
 ## Live Demo
-https://your-netlify-url.netlify.app
+https://addtocart-shopeasy.netlify.app/
 ```
 
 ---
